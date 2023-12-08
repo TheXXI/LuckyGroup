@@ -133,6 +133,12 @@ main {
     line-height: 26px;
 }
 
+@media screen and (max-width: 450px) {
+    .description{
+        width: 90%;
+    }
+}
+
 .main-button {
     margin-top: 20px;
     font-size: 15px;
